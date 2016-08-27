@@ -1,0 +1,18 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target '沙盒文件操作' do
+  # Uncomment this line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for 沙盒文件操作
+pod 'Masonry'
+pod 'AFNetworking'
+pod 'MBProgressHUD'
+pod 'MJRefresh'
+pod 'RESideMenu'
+pod 'SDWebImage'
+pod 'MJExtension'
+pod 'FMDB'
+pod 'SVProgressHUD'
+end
